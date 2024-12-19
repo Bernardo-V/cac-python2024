@@ -1,5 +1,5 @@
 ![img](https://i.postimg.cc/FRXKcL88/comienza.gif)
-# cac-python2024
+# CAC-Python2024
 # Sistema de Gestión de Inventario 🛒
 ## Descripción del proyecto 🚀
 Este es un sistema sencillo de gestión de inventario, diseñado para mantener un registro de productos. Permite realizar operaciones básicas como:
