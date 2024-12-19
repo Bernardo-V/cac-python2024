@@ -48,7 +48,7 @@ Al ejecutar el programa, aparecerá un menú principal con las siguientes opcion
 
 ```
 |-- inventario.db          # Base de datos SQLite (se genera automáticamente)
-|-- <nombre_del_archivo>.py  # Código principal del sistema
+|-- app.py                 # Código principal del sistema
 |-- README.md              # Documentación del proyecto
 ```
 ## Tecnologías Utilizadas 🛠️
