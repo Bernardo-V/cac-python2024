@@ -19,8 +19,8 @@ Sigue estos pasos para instalar y ejecutar el sistema:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   ```
+   git clone https://github.com/Bernardo-V/cac-python2024
+      ```
 2. **Instala las dependencias necesarias**:
    ```bash
    pip install colorama
@@ -28,7 +28,7 @@ Sigue estos pasos para instalar y ejecutar el sistema:
 
 3. **Ejecuta el programa**:
    ```bash
-   python <nombre_del_archivo>.py
+   python app.py
    ```
 ---
 ## Uso 📖
