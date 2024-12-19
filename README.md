@@ -61,7 +61,7 @@ Al ejecutar el programa, aparecerá un menú principal con las siguientes opcion
 
 ## DER:
 
-Este proyecto fué generado con 🛠️ [Java](https://www.python.org/) version 3.
+Este proyecto fué generado con 🛠️ [Python](https://www.python.org/) version 3.
 
 ## Estado del proyecto 📌
 Primera versión: En esta primera iteración nos encargaremos de modelar, a nivel datos y objetos, una solución
